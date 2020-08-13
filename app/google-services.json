@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "329236155462",
+    "firebase_url": "https://inapp-messaging-af9a0.firebaseio.com",
+    "project_id": "inapp-messaging-af9a0",
+    "storage_bucket": "inapp-messaging-af9a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329236155462:android:16cffdc530167ddee94e47",
+        "android_client_info": {
+          "package_name": "com.yogeshlokhande.inappmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329236155462-l9v0af0f4cg8kts0bhvfe39ho78bhbe2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP9J07fv8uTbkcN3WztL1lse_qACZV3e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329236155462-l9v0af0f4cg8kts0bhvfe39ho78bhbe2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
