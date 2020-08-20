@@ -1,2 +1,3 @@
+include ':customizedui'
 include ':app'
 rootProject.name = "InAppMessaging"
